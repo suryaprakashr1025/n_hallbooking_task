@@ -84,4 +84,4 @@ app.get("/customerdetails",(req,res)=>{
     res.json(customer)
 })
 
-app.listen(3007)
+app.listen(process.env.PORT || 3007)
