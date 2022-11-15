@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "n_hallbooking_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryaprakashr1025/n_hallbooking_task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryaprakashr1025/n_hallbooking_task/issues"
+  },
+  "homepage": "https://github.com/suryaprakashr1025/n_hallbooking_task#readme",
+  "description": ""
 }
